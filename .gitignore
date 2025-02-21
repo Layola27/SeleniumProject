@@ -1,0 +1,1 @@
+venv/ # Evitar subir la carpeta del entorno virtual a Git
